@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.2500,,S
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C
+3,1,3,"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.9250,,S
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1000,C123,S
+5,0,3,"Allen, Mr. William Henry",male,35,0,0,373450,8.0500,,S
+6,0,3,"Morley, Mr. Herbert",male,40,0,0,370376,7.2500,,S
+7,0,1,"Rushton, Mrs. Ethel",female,32,0,0,PC 17758,12.3500,B57,B
+8,1,3,"Johnson, Miss. Eleanor",female,29,1,0,360906,7.7500,,S
+9,1,3,"Nasser, Mrs. Nicholas",female,,0,0,2648,12.0000,,C
+10,1,2,"Noble, Mr. Arthur",male,33,0,0,113801,30.0000,D14,C
